@@ -20,3 +20,8 @@ Aprender los conceptos básicos de Docker en Ubuntu mediante una máquina virtua
 ### Ver contenedores
 ```bash
 docker ps
+
+## Capturas
+
+### Nginx funcionando
+![Nginx](capturas/nginx funcionando.png)
