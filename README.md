@@ -1,27 +1,24 @@
 # Primer laboratorio Docker en Ubuntu
 
 ## Objetivo
-Aprender los conceptos básicos de Docker en Ubuntu mediante una máquina virtual.
+Aprender Docker y administración básica Linux mediante Ubuntu en máquina virtual.
 
-## Tecnologías utilizadas
+## Tecnologías usadas
 - Ubuntu
 - Docker
 - Portainer
 - Nginx
 
 ## Qué he realizado
-- Instalación de Docker en Ubuntu
-- Configuración inicial de Portainer
-- Despliegue de un contenedor Nginx
+- Instalación de Docker
+- Configuración de Portainer
+- Creación de contenedor Nginx
 - Gestión básica de contenedores
 
-## Comandos utilizados
+## Capturas
 
-### Ver contenedores
-```bash
-docker ps
-
-**Capturas
+### Portainer
+![Portainer](capturas/nginx funcionando.png)
 
 ### Nginx funcionando
-![Nginx](capturas/nginx funcionando.png)
+![Nginx](capturas/comando nginx.png)
