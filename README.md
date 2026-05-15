@@ -18,7 +18,7 @@ Aprender Docker y administración básica Linux mediante Ubuntu en máquina virt
 ## Capturas
 
 ### Portainer
-![Portainer](capturas/nginx funcionando.png)
+![Portainer](capturas/portainer.png)
 
 ### Nginx funcionando
-![Nginx](capturas/comando nginx.png)
+![Nginx](capturas/nginx.png)
